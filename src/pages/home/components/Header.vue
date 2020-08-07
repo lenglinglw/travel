@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-    @import '~@/assets/style/varibles.styl'
+    @import '~@style/varibles.styl'
 /** 1rem = html font-size 50px */
     .header
         display flex
